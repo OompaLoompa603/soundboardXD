@@ -1,0 +1,28 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    margin-top: 3em;
+    margin-bottom: 3em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.soundBtn {
+    padding: 1em;
+    margin: .5em;
+    height: 5em;
+    width: 10em;
+    border-radius: 1em;
+}
+
+#nerdBtn {
+    background-image: url("backgroundBtn/BGnerdBtn.gif");
+    background-size: 10em;
+}
+
+#peterBtn {
+    background-image: url("backgroundBtn/BGpeterBtn.png");
+    background-size: 9em;
+}
