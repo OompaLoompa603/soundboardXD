@@ -1,14 +1,14 @@
 body {
     margin-top: 3em;
     margin-bottom: 3em;
-    margin-left: 5em;
-    margin-right: 5em;
+    margin-left: 3em;
+    margin-right: 3em;
 }
 
 .soundBtn {
     padding: 1em;
     margin: .5em;
-    height: 5em;
+    height: 6em;
     width: 10em;
     border-radius: 1em;
 }
@@ -80,6 +80,30 @@ body {
 
 #stfuBtn {
     background-image: url("backgroundBtn/BGstfuBtn.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#heyBtn {
+    background-image: url("backgroundBtn/BGheyBtn.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#legoBreakingBtn {
+    background-image: url("backgroundBtn/BGlegoBreakingBtn.gif");
+    background-size: cover;
+    background-position: center;
+}
+
+#legoStudBtn {
+    background-image: url("backgroundBtn/BGlegoStudBtn.gif");
+    background-size: cover;
+    background-position: center;
+}
+
+#yawnBtn {
+    background-image: url("backgroundBtn/BGyawnBtn.png");
     background-size: cover;
     background-position: center;
 }
