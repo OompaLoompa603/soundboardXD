@@ -1,16 +1,20 @@
 body {
-    margin-top: 3em;
-    margin-bottom: 3em;
-    margin-left: 3em;
-    margin-right: 3em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 .soundBtn {
     padding: 1em;
-    margin: .5em;
-    height: 6em;
-    width: 10em;
+    height: 3.5em;
+    width: 5.5em;
     border-radius: 1em;
+}
+
+button {
+    margin: 1em;
+    content-visibility: hidden;
 }
 
 #nerdBtn {
